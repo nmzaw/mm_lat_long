@@ -1,2 +1,2 @@
-# mm_lat_long
-Testing Grafana Dashboard with Lat &amp; Long
+# Myanmar's Cities Lat and Long
+Testing Grafana Dashboard with cities Lat &amp; Long
