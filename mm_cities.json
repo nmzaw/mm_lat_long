@@ -1,0 +1,20 @@
+[
+  {
+    "key": "YGN",
+    "latitude": 16.87,
+    "longitude": 96.19,
+    "name": "Yangon"
+  },
+  {
+    "key": "MDY",
+    "latitude": 21.95,
+    "longitude": 96.09,
+    "name": "Mandalay"
+  },
+  {
+    "key": "MYK",
+    "latitude": 12.44,
+    "longitude": 98.62,
+    "name": "Myeik"
+  }
+]
